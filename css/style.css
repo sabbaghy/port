@@ -91,7 +91,7 @@ header{
   rgba(211,135,20, .7),
   rgba(29,241,171, .6),
   rgba(7,109,150, .5)
-  ), url(/img/bombillo1.jpg);
+  ), url(./img/bombillo1.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
