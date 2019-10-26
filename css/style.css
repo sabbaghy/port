@@ -91,7 +91,7 @@ header{
   rgba(45,65,80, .7),
   rgba(170,180,185, .6),
   rgba(249,249,249, .5)
-  ), url(/img/bombillo1.jpg);
+  ), url(img/bombillo1.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -238,7 +238,7 @@ nav .enlaces a:hover{
 }
 
 .about{
-  background: url(/img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
+  background: url(img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
   height: 400px;
   background-size: cover;
 }
@@ -326,7 +326,7 @@ nav .enlaces a:hover{
 /* Footer */
 
 footer {
-	background:url(/img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
+	background:url(img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
 	height: auto;
 	background-size: cover;
 }
