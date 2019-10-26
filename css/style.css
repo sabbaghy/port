@@ -29,7 +29,7 @@ img{
   vertical-align: top;
 }
 
-/* Preloader   
+/* Preloader   */
 .hidden{
   overflow: hidden;
 }
@@ -82,15 +82,15 @@ img{
   }
 }
 
-Header */ 
+/* Header */ 
 
 header{
   width: 100%;
   height:95vh;
   background: linear-gradient(to bottom,
-  rgba(256, 0, 256, .7),
-  rgba(0,256, 0, .6),
-  rgba(256,0,256, .5)
+  rgba(45, 60, 80, .7),
+  rgba(170,180, 185, .6),
+  rgba(240,240,240, .5)
   ), url(../img/bombillo1.jpg);
   background-attachment: fixed;
   background-position: center;
@@ -238,7 +238,7 @@ nav .enlaces a:hover{
 }
 
 .about{
-  background: url(img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
+  background: url(../img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
   height: 400px;
   background-size: cover;
 }
@@ -326,7 +326,7 @@ nav .enlaces a:hover{
 /* Footer */
 
 footer {
-	background:url(img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
+	background:url(../img/michal-parzuchowski-geNNFqfvw48-unsplash.jpg);
 	height: auto;
 	background-size: cover;
 }
